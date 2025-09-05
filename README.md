@@ -41,7 +41,9 @@ JavaScript (interactivity)
 
 # 📸 Preview
 
-(Add a screenshot or GIF of your login page here for better showcase)
+<img width="1920" height="1020" alt="Screenshot 2025-09-06 005439" src="https://github.com/user-attachments/assets/c77aa8f1-864c-4105-8243-5ee5f11a099e" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-06 005428" src="https://github.com/user-attachments/assets/882ba17e-7082-44b6-b4ec-29eba26a4a0b" />
+
 
 # 🤝 Credits
 
