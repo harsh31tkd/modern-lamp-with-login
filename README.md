@@ -18,6 +18,8 @@ Dark theme aesthetic
 # 📂 Project Structure
 Modern_lamp_with_Login/
 │── index.html      # Main login page
+│── LICENSE         # License file
+│── README.md       # Project documentation
 
 # 🚀 Getting Started
 ## 1. Clone this repository
